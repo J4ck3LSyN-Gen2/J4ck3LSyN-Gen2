@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1><span style="color:#00ff9d;">J4CK3LSYN</span><span style="color:#ff00ff;">-GEN2</span></h1>
+  <h1><span style="color:#00ff9d;">J4CK3LSYN</span><span style="color:#ff00ff;"></span></h1>
   <h3><span style="color:#00b8ff;">OFFENSIVE SECURITY // CYBER MERCENARY // DIGITAL NOMAD </span></h3>
 
   <img src="https://img.shields.io/badge/STATUS-ONLINE-%2300ff9d?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -14,8 +14,8 @@
 ```json
 {
   "status": "ACTIVE",
-  "clearance": "LEVEL_5",
-  "specialization": ["Offensive cyber ops", "APT simulation", "Network architecture"],
-  "infrastructure": "Isolated_Lab_v4.2"
+  "location": "AnonVille",
+  "specialization": ["Offensive Security", "APT simulation", "Network architecture","Doker Labs","Threat Intel"],
+  "infrastructure": "A.T.L.A.S - Enterprise"
 }
 ```
