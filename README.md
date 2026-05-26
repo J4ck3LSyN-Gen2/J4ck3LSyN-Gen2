@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/J4ck3LSyN-Gen2/J4ck3LSyN-Gen2/main/assets/neon-grid.gif" width="100%" alt="Neon Grid Banner"/>
   
   <h1><span style="color:#00ff9d;">J4CK3LSYN</span><span style="color:#ff00ff;">-GEN2</span></h1>
-  <h3><span style="color:#00b8ff;">NEON SHADOWS // DIGITAL PHANTOM // ROOT ACCESS GRANTED</span></h3>
+  <h3><span style="color:#00b8ff;">OFFENSIVE SECURITY // CYBER MERCENARY // DIGITAL NOMAD </span></h3>
 
   <img src="https://img.shields.io/badge/STATUS-ONLINE-%2300ff9d?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-ALBUQUERQUE%2C%20NM-%23ff00ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/THREAT%20LEVEL-OVERCLOCKED-%23ffff00?style=for-the-badge" />
 </div>
 
