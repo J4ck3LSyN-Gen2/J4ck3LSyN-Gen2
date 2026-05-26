@@ -19,3 +19,14 @@
   "infrastructure": "A.T.L.A.S - Enterprise"
 }
 ```
+
+```markdown
+┌─────────────────────────────────────────────────────────────┐
+│  LANGUAGE PROTOCOLS               CORE SYSTEMS              │
+├─────────────────────────────────────────────────────────────┤
+│  • Rust          • TypeScript     • Linux / NixOS           │
+│  • Python        • Go             • Kubernetes              │
+│  • Zig           • Lua            • Reverse Engineering     │
+│  • C/C++         • Assembly       • Zero Trust Architecture │
+└─────────────────────────────────────────────────────────────┘
+```
