@@ -21,9 +21,13 @@
 
 ---
 
-## SYSTEM PROFILE
+<div align="center">
+  <h3><code>Operative-Handle: Jλckλι</code></h3>
+  <p><strong>Security Researcher, Occultist & Offensive Tool Developer</strong></p>
+</div>
 
-* **Jλckλι** — Security Researcher & Offensive Tool Developer
+--- 
+
 * **Specialization:** Evasion Mechanics, Custom Implant Architecture, and Vulnerability Research.
 * **Operational Philosophy:** Security controls are built on assumptions. By validating or subverting those assumptions, the control becomes irrelevant.
 
