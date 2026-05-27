@@ -40,7 +40,7 @@
 * **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** — Detailed technical analysis covering APT activity, offensive execution methodologies, and defensive control subversion.
 * **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** — High-performance execution framework focused on network subversion and memory injection vectors.
 * **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** — A modular, cross-platform utility engine with custom syntax for flexible operations in highly-monitored runtime environments.
-* **[Crucix-Expanded](https://github.com/J4ck3LSyN-Gen2/Crucix-Expanded)** — Aggregated intelligence and operational command dashboard.
+* **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** — Aggregated intelligence and operational command dashboard.
 * **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** — Hardened, containerized environment isolating the Hermes operational agent.
 * **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** — High-performance GPU-accelerated environment optimizing local LLM execution.
 
