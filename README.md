@@ -34,13 +34,13 @@
 ---
 
 ## Arsenal (Featured Projects)
-
-- **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** — My flagship weapon. A modular all-purpose toolkit with custom syntax designed for maximum flexibility in hostile environments.
+- **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** - Collection of detailed technical reports on offensive security, APT activity, vulnerability research, and industry landscape analysis.
 - **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** — The core arsenal. Network subversion, exploitation, and calculated digital malevolence.
 - **[Crucix-Expanded](https://github.com/J4ck3LSyN-Gen2/Crucix-Expanded)** — Enhanced offensive framework.
 - **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** — Privacy-hardened containerized Hermes Agent.
 - **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** — High-performance GPU Ollama environment.
 - **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** — Accumulated intelligence and research.
+- **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** — My flagship weapon. A modular all-purpose toolkit with custom syntax designed for maximum flexibility in hostile environments.
 
 ---
 
