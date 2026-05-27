@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3600&pause=900&color=00FF9F&center=true&vCenter=true&width=760&lines=INITIALIZING+OFFENSIVE+SECURITY+ENVIRONMENT...;LOADING+RESEARCH+TOOLKIT+AND+ANALYSIS+FRAMEWORKS...;J4ck3LSyN+ONLINE;ESTABLISHING+SECURE+CHANNEL+WITH+A.T.L.A.S...;A.T.L.A.S+v3.9.1+ONLINE+-+THREAT+INTELLIGENCE+CORE+ACTIVE;[SYN]+A.T.L.A.S+-%3E+resp+[ACK]+-+SYSTEMS+NOMINAL;OFFENSIVE+SECURITY+RESEARCHER+%7C+RED+TEAM+TOOL+DEVELOPER;SPECIALIZING+IN+EVASION%2C+LOW-LEVEL+EXPLOITATION+%26+PERSISTENCE;CURRENT+FOCUS+-+NEXT-GEN+OFFENSIVE+CAPABILITIES+AND+DETECTION+BYPASS;MONITORING+TARGET+ENVIRONMENTS+IN+REAL-TIME..." alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=[*]+Initializing+A.T.L.A.S.+Core+v3.9.1...;[+]+Modules:+User-Mode+Evasion+%7C+Kernel-Level+Analysis;[+]+Capabilities:+Memory+Injection%2C+Persistence%2C+OSINT;[+]+Runtime:+Isolated+Lab+Scenario+%5BActive%5D;[*]+Monitoring+Target+Control+Matrices..." alt="Terminal Typing" />
 </p>
 
 <p align="center">
@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/PLATFORM-Arch%20Linux-black?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
-
 <div align="center">
-  <strong>OFFENSIVE SECURITY | CYBER MERCENARY | DIGITAL GHOST</strong>
+  <strong>LOW-LEVEL EVASION  |  IMPLANT ARCHITECTURE  |  AUTOMATED RECONNAISSANCE</strong>
 </div>
 
 ---
@@ -23,31 +22,24 @@
 ---
 
 ## SYSTEM PROFILE
+
 * **Jλckλι** — Security Researcher & Offensive Tool Developer
-* **Vector:** Low-Level Evasion | Custom Implant Architecture | Automated Reconnaissance
-* **Objective:** Systematic deconstruction of defensive controls through structural analysis and custom exploitation vectors.
-
-"Exploitation is not a violation of system design; it is the execution of reality over assumption."
-
----
-
-## Arsenal (Featured Projects)
-- **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** - Collection of detailed technical reports on offensive security, APT activity, vulnerability research, and industry landscape analysis.
-- **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** — The core arsenal. Network subversion, exploitation, and calculated digital malevolence.
-- **[Crucix-Expanded](https://github.com/J4ck3LSyN-Gen2/Crucix-Expanded)** — Enhanced information-security dashboard.
-- **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** — Privacy-hardened containerized Hermes Agent.
-- **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** — High-performance GPU Ollama environment.
-- **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** — Accumulated intelligence and research.
-- **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** — My flagship weapon. A modular all-purpose toolkit with custom syntax designed for maximum flexibility in hostile environments.
-
----
-
-## PROFILE
-* **Specialization:** Offensive Security, Evasion, Tool Development, OSINT
-* **Focus Areas:** Advanced evasion mechanics, tailored implant architecture, and automated intelligence gathering
+* **Specialization:** Evasion Mechanics, Custom Implant Architecture, and Vulnerability Research.
 * **Operational Philosophy:** Security controls are built on assumptions. By validating or subverting those assumptions, the control becomes irrelevant.
-> __"Detection is a design flaw in execution."__
+
+> *"Exploitation is not a violation of system design; it is the execution of reality over assumption."*
 
 ---
 
-**Stay dangerous.**
+## ARSENAL & RESEARCH
+
+* **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** — Detailed technical analysis covering APT activity, offensive execution methodologies, and defensive control subversion.
+* **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** — High-performance execution framework focused on network subversion and memory injection vectors.
+* **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** — A modular, cross-platform utility engine with custom syntax for flexible operations in highly-monitored runtime environments.
+* **[Crucix-Expanded](https://github.com/J4ck3LSyN-Gen2/Crucix-Expanded)** — Aggregated intelligence and operational command dashboard.
+* **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** — Hardened, containerized environment isolating the Hermes operational agent.
+* **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** — High-performance GPU-accelerated environment optimizing local LLM execution.
+
+---
+
+> *"Detection is a design flaw in execution."*
