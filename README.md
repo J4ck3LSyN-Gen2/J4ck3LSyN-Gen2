@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=680&lines=INITIALIZING+SECURE+UPLINK...;BREACHING+PERIMETER...;ACCESS+GRANTED+-+CLEARANCE+LEVEL+SYSTEM;J4ck3LSyN+ONLINE;SIMULATING+APT+ENGAGEMENTS...;%5BSYN%5D+A.T.L.A.S+-%3E+resp+%5BACK%5D...;" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=1100&color=00FF9F&center=true&vCenter=true&width=700&lines=J4ck3LSyN+ONLINE;OFFENSIVE+SECURITY+RESEARCHER+%26+TOOL+DEVELOPER;SPECIALIZING+IN+RED+TEAM+OPERATIONS+AND+EVASION;EXPERTISE+-+C%2FC%2B%2B+%7C+Rust+%7C+Python+%7C+Low-Level+Exploitation;BUILDING+RELIABLE+OFFENSIVE+CAPABILITIES+IN+HOSTILE+ENVIRONMENTS;" alt="Terminal Typing" />
 </p>
 
 <p align="center">
