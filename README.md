@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=650&lines=INITIALIZING+SECURE+UPLINK...;BREACHING+PERIMETER...;ACCESS+GRANTED+-+CLEARANCE+LEVEL+5;J4ck3LSyN+ONLINE;SIMULATING+APT+ENGAGEMENTS...;[SYN] A.T.L.A.S -> resp [ACK]..." alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=680&lines=INITIALIZING+SECURE+UPLINK...;BREACHING+PERIMETER...;ACCESS+GRANTED+-+CLEARANCE+LEVEL+5;J4ck3LSyN+ONLINE;SIMULATING+APT+ENGAGEMENTS...;%5BSYN%5D+A.T.L.A.S+-%3E+resp+%5BACK%5D...;" alt="Terminal Typing" />
 </p>
 
 <p align="center">
