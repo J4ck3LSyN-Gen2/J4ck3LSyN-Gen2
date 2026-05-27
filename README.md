@@ -17,7 +17,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J4ck3LSyN-Gen2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&icon_color=00FF9F&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=J4ck3LSyN-Gen2&theme=radical&hide_border=true&background=0D1117&stroke=00FF9F&ring=00FF9F&fire=FF0000&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak Stats" />
 </p>
 
