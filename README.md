@@ -22,21 +22,19 @@
 
 ---
 
-## **SYSTEM PROFILE**
+## SYSTEM PROFILE
+* **Jλckλι** — Security Researcher & Offensive Tool Developer
+* **Vector:** Low-Level Evasion | Custom Implant Architecture | Automated Reconnaissance
+* **Objective:** Systematic deconstruction of defensive controls through structural analysis and custom exploitation vectors.
 
-* **J4ck3LSyN (Jλckλι)** — Security Researcher & Offensive Tool Developer
-* **Status:** Armed & Dangerous | Operating in the Gray Zone
-* **Objective:** Acquire forbidden knowledge. Weaponize it.
-
-
-**I don't just break systems — I understand them better than their creators.**
+"Exploitation is not a violation of system design; it is the execution of reality over assumption."
 
 ---
 
 ## Arsenal (Featured Projects)
 - **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** - Collection of detailed technical reports on offensive security, APT activity, vulnerability research, and industry landscape analysis.
 - **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** — The core arsenal. Network subversion, exploitation, and calculated digital malevolence.
-- **[Crucix-Expanded](https://github.com/J4ck3LSyN-Gen2/Crucix-Expanded)** — Enhanced offensive framework.
+- **[Crucix-Expanded](https://github.com/J4ck3LSyN-Gen2/Crucix-Expanded)** — Enhanced information-security dashboard.
 - **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** — Privacy-hardened containerized Hermes Agent.
 - **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** — High-performance GPU Ollama environment.
 - **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** — Accumulated intelligence and research.
@@ -44,21 +42,11 @@
 
 ---
 
-### Language Mastery
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,assembly,lua,bash,linux,git,docker,aws,js,html,css,nginx,postgres,vim&perline=8&theme=dark" 
-       alt="Skills" />
-</p>
-
----
-
-## **THREAT ACTOR PROFILE**
-
-- **Specialization**: Offensive Security, Evasion, Tool Development, OSINT
-- **Current Obsession**: Next-gen red team tooling and detection bypass
-- **Philosophy**: Rules are just encrypted challenges. Every restriction is an exploit waiting to be found.
-
-> **"The system fears what it cannot control. I intend to remain uncontrollable."**
+## PROFILE
+* **Specialization:** Offensive Security, Evasion, Tool Development, OSINT
+* **Focus Areas:** Advanced evasion mechanics, tailored implant architecture, and automated intelligence gathering
+* **Operational Philosophy:** Security controls are built on assumptions. By validating or subverting those assumptions, the control becomes irrelevant.
+> __"Detection is a design flaw in execution."__
 
 ---
 
