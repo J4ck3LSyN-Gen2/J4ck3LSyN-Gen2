@@ -34,14 +34,6 @@
 
 ---
 
-### Language Mastery
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,assembly,lua,bash,linux,git,docker,aws,js,html,css,nginx,postgres,vim&perline=8&theme=dark" 
-       alt="Skills" />
-</p>
-
----
-
 ## Arsenal (Featured Projects)
 
 - **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** — My flagship weapon. A modular all-purpose toolkit with custom syntax designed for maximum flexibility in hostile environments.
@@ -50,6 +42,14 @@
 - **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** — Privacy-hardened containerized Hermes Agent.
 - **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** — High-performance GPU Ollama environment.
 - **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** — Accumulated intelligence and research.
+
+---
+
+### Language Mastery
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,assembly,lua,bash,linux,git,docker,aws,js,html,css,nginx,postgres,vim&perline=8&theme=dark" 
+       alt="Skills" />
+</p>
 
 ---
 
