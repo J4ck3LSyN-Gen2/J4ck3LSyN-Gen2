@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <h3><code>Operative-Handle: Jλckλι</code></h3>
+  <p>Jλckλι</p>
   <p><strong>Security Researcher, Occultist & Offensive Tool Developer</strong></p>
 </div>
 
@@ -41,12 +41,12 @@
 |----------------------------------------------|-----------|
 | **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** | Detailed technical analysis covering APT activity, offensive execution methodologies, and defensive control subversion. |
 | **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Terminal-based interactive packet analyzer inspired by Wireshark with vim-like keybindings, built on Scapy + Urwid. |
-| **[dockerCode](https://github.com/J4ck3LSyN-Gen2/dockerCode)** | Hardened, containerized VS Code (code-server) environment with Zero Trust extension sandboxing and AI integration. |
 | **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance execution framework focused on network subversion and memory injection vectors. |
 | **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** | A modular, cross-platform utility engine with custom syntax for flexible operations in highly-monitored runtime environments. |
 | **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Aggregated intelligence and operational command dashboard. |
 | **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** | Hardened, containerized environment isolating the Hermes operational agent. |
 | **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** | High-performance GPU-accelerated environment optimizing local LLM execution. |
+| **[dockerCode](https://github.com/J4ck3LSyN-Gen2/dockerCode)** | Hardened, containerized VS Code (code-server) environment with Zero Trust extension sandboxing and AI integration. |
 ---
 
 > *"Detection is a design flaw in execution."*
