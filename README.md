@@ -1,52 +1,65 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=[*]+Initializing+A.T.L.A.S.+Core+v3.9.1...;[+]+Modules:+User-Mode+Evasion+%7C+Kernel-Level+Analysis;[+]+Capabilities:+Memory+Injection%2C+Persistence%2C+OSINT;[+]+Runtime:+Isolated+Lab+Scenario+%5BActive%5D;[*]+Monitoring+Target+Control+Matrices..." alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=750&lines=Security+Researcher+%7C+Offensive+Tooling+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CRUXIBAL%20-%20LIVE-27BF00?style=for-the-badge&logo=terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPERATIONS-APT%20SIMULATION%20%26%20EVASION-990000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CORE%20STACK-C%2FC%2B%2B%20%7C%20Python%20%7C%20Node.js-470059?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PLATFORM-Arch%20Linux-black?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Red+Team+%26+Adversary+Emulation-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Evasion+%7C+Custom+Implants+%7C+Vulnerability+Research-00FF9F?style=for-the-badge" />
 </p>
 
 <div align="center">
-  <strong>LOW-LEVEL EVASION  |  IMPLANT ARCHITECTURE  |  AUTOMATED RECONNAISSANCE</strong>
+  <strong>Building realistic offensive capabilities through custom tooling and low-level research.</strong>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J4ck3LSyN-Gen2&theme=radical&hide_border=true&background=0D1117&stroke=00FF9F&ring=00FF9F&fire=FF0000&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak Stats" />
-</p>
+### About Me
+
+I'm a self-taught Security Researcher and Offensive Tool Developer with over 15 years of hands-on experience in cybersecurity. My journey began in the early days of Windows 7 and EternalBlue, where I developed a deep passion for understanding how systems actually work by breaking them.
+
+Currently pursuing a degree in **Computer Information Systems - Cybersecurity** while maintaining active offensive research. My focus lies in:
+
+- **Custom Implant Development** and C2 frameworks
+- **Evasion Techniques** (user-mode and kernel-level)
+- **Memory Injection** and Process Hollowing
+- **Adversary Emulation** and Red Team tooling
+- **Vulnerability Research** and Proof-of-Concept development
+
+> "True security comes from understanding both sides of the attack-defense relationship."
 
 ---
 
-<div align="center">
-  <p>Jλckλι</p>
-  <p><strong>Security Researcher, Occultist & Offensive Tool Developer</strong></p>
-</div>
+### Arsenal & Research Projects
 
---- 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance, modular offensive framework focused on stealth, memory injection, and asynchronous C2 communication. | Rust, Python, C |
+| **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Interactive terminal-based packet analyzer with vim-like controls, built for efficient network reconnaissance. | Python (Scapy + Urwid) |
+| **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** | Modular cross-platform utility engine designed for operation in restricted and monitored environments. | Python |
+| **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** | Technical research and threat intelligence notes covering offensive techniques, evasion methods, and vulnerability analysis. | - |
+| **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Operational command and intelligence aggregation dashboard. | - |
 
-* **Specialization:** Evasion Mechanics, Custom Implant Architecture, and Vulnerability Research.
-* **Operational Philosophy:** Security controls are built on assumptions. By validating or subverting those assumptions, the control becomes irrelevant.
-
-> *"Exploitation is not a violation of system design; it is the execution of reality over assumption."*
+**Additional Tooling:**
+- Hardened Docker environments for secure offensive operations (`dockerHermes`, `dockerCode`, `dockerLLama`)
 
 ---
 
-## ARSENAL & RESEARCH
+### Technical Skills
 
-| Project                                      | Description |
-|----------------------------------------------|-----------|
-| **[Cybersecurity Research & Threat Intelligence](https://github.com/J4ck3LSyN-Gen2/Reports)** | Detailed technical analysis covering APT activity, offensive execution methodologies, and defensive control subversion. |
-| **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Terminal-based interactive packet analyzer inspired by Wireshark with vim-like keybindings, built on Scapy + Urwid. |
-| **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance execution framework focused on network subversion and memory injection vectors. |
-| **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** | A modular, cross-platform utility engine with custom syntax for flexible operations in highly-monitored runtime environments. |
-| **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Aggregated intelligence and operational command dashboard. |
-| **[dockerHermes](https://github.com/J4ck3LSyN-Gen2/dockerHermes)** | Hardened, containerized environment isolating the Hermes operational agent. |
-| **[dockerLLama](https://github.com/J4ck3LSyN-Gen2/dockerLLama)** | High-performance GPU-accelerated environment optimizing local LLM execution. |
-| **[dockerCode](https://github.com/J4ck3LSyN-Gen2/dockerCode)** | Hardened, containerized VS Code (code-server) environment with Zero Trust extension sandboxing and AI integration. |
+- **Languages**: C/C++, Rust, Python, JavaScript/Node.js
+- **Core Areas**: Red Teaming, Adversary Simulation, Evasion Research, Implant Development, Memory Forensics
+- **Tools & Frameworks**: Custom C2 development, Process Injection, Linux syscall manipulation, Packet Crafting
+- **Currently Learning**: Advanced EDR bypass techniques, Modern C2 infrastructure design
+
 ---
 
-> *"Detection is a design flaw in execution."*
+### Currently Working On
+- Preparing for **OSCP** certification
+- Expanding evasion capabilities against modern EDR solutions
+- Contributing back to the open-source security community
+
+---
+
+**Open to collaboration** on interesting offensive security projects, red team tooling, or research opportunities.
+
+Feel free to reach out if you want to discuss malware development, evasion techniques, or adversary simulation.
