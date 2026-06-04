@@ -33,11 +33,12 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance, modular offensive framework focused on stealth, memory injection, and asynchronous C2 communication. | Rust, Python, C |
+| **[NGF:Next-Generation-Fetch](https://github.com/J4ck3LSyN-Gen2/NGF)** | An enterprise-grade, OpSec-aware proxy harvesting and validation suite designed for security professionals and researchers. |
 | **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Interactive terminal-based packet analyzer with vim-like controls, built for efficient network reconnaissance. | Python (Scapy + Urwid) |
+| **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Operational command and intelligence aggregation dashboard. | - |
+| **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance, modular offensive framework focused on stealth, memory injection, and asynchronous C2 communication. | Rust, Python, C |
 | **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** | Modular cross-platform utility engine designed for operation in restricted and monitored environments. | Python |
 | **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** | Technical research and threat intelligence notes covering offensive techniques, evasion methods, and vulnerability analysis. | - |
-| **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Operational command and intelligence aggregation dashboard. | - |
 
 **Additional Tooling:**
 - Hardened Docker environments for secure offensive operations (`dockerHermes`, `dockerCode`, `dockerLLama`)
