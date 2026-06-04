@@ -33,7 +33,7 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[NGF:Next-Generation-Fetch](https://github.com/J4ck3LSyN-Gen2/NGF)** | An enterprise-grade, OpSec-aware proxy harvesting and validation suite designed for security professionals and researchers. |
+| **[NGF:Next-Generation-Fetch](https://github.com/J4ck3LSyN-Gen2/NGF)** | An enterprise-grade, OpSec-aware proxy harvesting and validation suite designed for security professionals and researchers. | Python, Proxychains, Docker, Tor |
 | **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Interactive terminal-based packet analyzer with vim-like controls, built for efficient network reconnaissance. | Python (Scapy + Urwid) |
 | **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Operational command and intelligence aggregation dashboard. | - |
 | **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance, modular offensive framework focused on stealth, memory injection, and asynchronous C2 communication. | Rust, Python, C |
