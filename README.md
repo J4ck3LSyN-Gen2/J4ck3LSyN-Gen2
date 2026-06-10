@@ -63,4 +63,4 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 
 **Open to collaboration** on interesting offensive security projects, red team tooling, or research opportunities.
 
-Feel free to reach out if you want to discuss malware development, evasion techniques, or adversary simulation.
+Feel free to reach out if you want to discuss fun stuffz on X: @J4ck3LSyN
