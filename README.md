@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=00FF9F&center=true&vCenter=true&width=780&lines=Security+Researcher+%7C+Offensive+Tool+Developer;Building+Realistic+Adversary+Emulation;Custom+Implants+%26+Stealthy+C2;EDR+Evasion+%26+Kernel+Research;Low-Level+Offensive+Security;C%2FC%2B%2B+%7C+Rust+%7C+Python;Red+Teaming+%7C+Adversary+Simulation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=00FF9F&center=true&vCenter=true&width=780&lines=Security+Researcher+%7C+Offensive+Tool+Developer;Building+Realistic+Adversary+Emulation;Custom+Implants+%26+Stealthy+C2;EDR+Evasion+%26+Kernel+Research;Low-Level+Offensive+Security;C%2FC%2B%2B+%7C+Rust+%7C+Python+%7C+Docker;Red+Teaming+%7C+Adversary+Simulation" alt="Typing SVG" />
 </p>
 
 <p align="center">
