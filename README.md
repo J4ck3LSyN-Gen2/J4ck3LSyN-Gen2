@@ -33,6 +33,7 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **[CVE-2026-6307](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)** | A PoC on V8 Type Confusion in V8 TurboFan (JS-to-Wasm call inlining + FrameState merging) | JS, Python, YARA |
 | **[NGF:Next-Generation-Fetch](https://github.com/J4ck3LSyN-Gen2/NGF)** | An enterprise-grade, OpSec-aware proxy harvesting and validation suite designed for security professionals and researchers. | Python, Proxychains, Docker, Tor |
 | **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Interactive terminal-based packet analyzer with vim-like controls, built for efficient network reconnaissance. | Python (Scapy + Urwid) |
 | **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Operational command and intelligence aggregation dashboard. | - |
