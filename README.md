@@ -33,13 +33,13 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[CVE-2026-6307](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)** | A PoC on V8 Type Confusion in V8 TurboFan (JS-to-Wasm call inlining + FrameState merging) following the write-up at: https://nebusec.ai/research/v8-cve-2026-6307-writeup/ | JS, Python, YARA |
 | **[NGF:Next-Generation-Fetch](https://github.com/J4ck3LSyN-Gen2/NGF)** | An enterprise-grade, OpSec-aware proxy harvesting and validation suite designed for security professionals and researchers. | Python, Proxychains, Docker, Tor |
 | **[vimShark](https://github.com/J4ck3LSyN-Gen2/vimShark)** | Interactive terminal-based packet analyzer with vim-like controls, built for efficient network reconnaissance. | Python (Scapy + Urwid) |
 | **[Cruxable](https://github.com/J4ck3LSyN-Gen2/Cruxable)** | Operational command and intelligence aggregation dashboard. | - |
 | **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance, modular offensive framework focused on stealth, memory injection, and asynchronous C2 communication. | Rust, Python, C |
 | **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** | Modular cross-platform utility engine designed for operation in restricted and monitored environments. | Python |
 | **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** | Technical research and threat intelligence notes covering offensive techniques, evasion methods, and vulnerability analysis. | - |
+| **[CVE-2026-6307](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)** | A PoC on V8 Type Confusion in V8 TurboFan (JS-to-Wasm call inlining + FrameState merging) following the write-up at: https://nebusec.ai/research/v8-cve-2026-6307-writeup/ | JS, Python, YARA |
 
 **Additional Tooling:**
 - Hardened Docker environments for secure offensive operations (`dockerHermes`, `dockerCode`, `dockerLLama`)
