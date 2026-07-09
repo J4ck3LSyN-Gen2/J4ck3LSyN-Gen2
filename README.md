@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Red%20Team%20%26%20Adversary%20Emulation-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Evasion%20%7C%20Custom%20Implants%20%7C%20Vulnerability%20Research-006633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Red%20Team%20%26%20Adversary%20Emulation-8B0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-Evasion%20%7C%20Custom%20Implants%20%7C%20Vulnerability%20Research-006633?style=flat-square" />
   
   <a href="https://github.com/sponsors/J4ck3LSyN-Gen2">
-    <img src="https://img.shields.io/badge/Sponsor%20me-%E2%9D%A4%EF%B8%8F-8A2BE2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor J4ck3LSyN-Gen2" />
+    <img src="https://img.shields.io/badge/Sponsor%20me-%E2%9D%A4%EF%B8%8F-8A2BE2?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor J4ck3LSyN-Gen2" />
   </a>
 </p>
 
