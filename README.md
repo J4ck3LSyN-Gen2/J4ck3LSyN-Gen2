@@ -47,6 +47,8 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 | **[CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)** | SimpleHelp OICD Authentication Bypass Leading to RCE | Python |  
 | **[CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)** | Epson Printer RAW Protocol Exploit Framework W/ Dry-Runs, Fuzzing, Stageing & Obfuscation | Python |  
 | **[CVE-2026-13768](https://github.com/J4ck3LSyN-Gen2/CVE-2026-13768)** | Gardyn IoT Hub Owner Key Exposure Leading to RCE W/ a C2 Flask server, payload obfuscation, device enumeration & validation. All highly simplified. | Python |   
+| **[CVE-2026-58457](https://github.com/J4ck3LSyN-Gen2/CVE-2026-58457)** | Unauthenticated OS Command Injection in Shenzhen Aitemi M300 Wi-Fi Repeater | Python, Ruby |  
+| **[CVE-2026-63030-wp2r00t](https://github.com/J4ck3LSyN-Gen2/CVE-2026-63030-wp2r00t)** | A self-contained proof-of-concept for the unauthenticated blind SQL injection reachable through the WordPress REST batch endpoint (/wp-json/batch/v1). Built with weapnoization capabilities | Python |  
 
 **Additional Tooling:**
 - Hardened Docker environments for secure offensive operations (`dockerHermes`, `dockerCode`, `dockerLLama`)
