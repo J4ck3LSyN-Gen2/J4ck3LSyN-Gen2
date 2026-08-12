@@ -43,6 +43,7 @@ Currently pursuing a degree in **Computer Information Systems - Cybersecurity** 
 | **[Malum](https://github.com/J4ck3LSyN-Gen2/Malum)** | High-performance, modular offensive framework focused on stealth, memory injection, and asynchronous C2 communication. | Rust, Python, C |
 | **[Alien](https://github.com/J4ck3LSyN-Gen2/Alien)** | Modular cross-platform utility engine designed for operation in restricted and monitored environments. | Python |
 | **[Reports](https://github.com/J4ck3LSyN-Gen2/Reports)** | Technical research and threat intelligence notes covering offensive techniques, evasion methods, and vulnerability analysis. | - |
+| **[ArcScan](https://github.com/J4ck3LSyN-Gen2/ArcScan)** | a lightweight reconnaissance utility that queries the public ArcGIS REST search API for operational dashboards and reports their visibility status. | Python |
 | **[CVE-2026-6307](https://github.com/J4ck3LSyN-Gen2/CVE-2026-6307-Longinus)** | A PoC on V8 Type Confusion in V8 TurboFan (JS-to-Wasm call inlining + FrameState merging) Following the report at: [nebusec.ai](https://nebusec.ai/research/v8-cve-2026-6307-writeup/) | JS, Python, YARA |
 | **[CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)** | SimpleHelp OICD Authentication Bypass Leading to RCE | Python |  
 | **[CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)** | Epson Printer RAW Protocol Exploit Framework W/ Dry-Runs, Fuzzing, Stageing & Obfuscation | Python |  
